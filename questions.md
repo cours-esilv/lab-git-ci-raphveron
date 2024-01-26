@@ -63,4 +63,5 @@ A branch is :
 
 How can I find out what changes were made in the last commit?
 
-- A. Use `git diff HEAD HEAD~1`.
+- A. Use `git diff HEAD HEAD~1`. 
+.
